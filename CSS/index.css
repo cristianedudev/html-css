@@ -70,3 +70,31 @@ h2 {
     text-shadow: 4px 4px 0px #000000;
     padding-left: 40px;
 }
+
+.buttonBanner {
+    display: inline-flex;
+    background-color: #BA1F33;
+    box-shadow: 5px 5px 0px #000;
+    justify-content: space-between;
+    margin-top: 340px;
+    margin-left: 300px;
+    padding: 18px 20px;
+}
+
+
+/* .cv { 
+    display: inline-block;
+    background-color: #ba1f33;
+    box-shadow: 5px 5px 0px #000;
+    margin-top: 338px;
+    margin-right: 1000px;
+    padding: 17px 20px
+}
+
+.contatos {
+    display: inline-block;
+    background-color: #BA1F33;
+    box-shadow: 5px 5px 0px #000;
+    margin-right: 600px;
+    padding: 17px 20px
+}*/
