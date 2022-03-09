@@ -29,14 +29,44 @@ a {
     transition: transform 100ms linear;
 }
 
-#button:hover {
+.button:hover {
     transform: scale(1.1);
 }
 
-#button {
+.button {
     display: inline-block;
     background-color: #BA1F33;
     box-shadow: 5px 5px 0px #000;
     padding: 18px 20px;
     margin-right: 0px;
+}
+
+.banner {
+    background-color: #3A4042;
+    display: inline-block;
+    text-align: center;
+    width: 658px;
+    height: 185px;
+    position: absolute;
+    margin-top: 116px;
+    margin-left: 91px;
+    box-shadow: 10px 10px 0px #000000;
+}
+
+h1 {
+    display: flex;
+    color: #CEB02A;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 40px;
+    text-shadow: 4px 4px 0px #000000;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Press Start 2P", sans-serif;
+    color: #fff;
+    display: flex;
+    text-align: center;
+    text-shadow: 4px 4px 0px #000000;
+    padding-left: 40px;
 }
