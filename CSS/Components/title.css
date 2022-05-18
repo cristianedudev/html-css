@@ -1,8 +1,6 @@
 h1 {
-    display: flex;
     color: #CEB02A;
     font-family: "Press Start 2P", sans-serif;
     font-size: 40px;
     text-shadow: 4px 4px 0px #000000;
-    text-align: center;
 }
